@@ -1,8 +1,6 @@
 title: StuffBits Technologies LLP, Tech Blogs!!!
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a techology blogs space for StuffBits Techologies LLP.
 permalink: ':title/'
 baseurl: "/TechBlogs" # the subpath of your site, e.g. /blog
 url: "https://stuffbits.in/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -14,7 +12,7 @@ author-img: david-freeman.jpg # add your photo
 about-author: Welcome to technology blogs site for StuffBits Technologies LLP. # add description
 social-twitter: # add your Twitter handle
 social-facebook: stuffbits/ #add your Facebook handle
-social-github: StuffbitsTechnologies # add your Github handle
+#social-github: # add your Github handle
 social-linkedin: company/stuffbits-technologies-llp # add your Linkedin handle
 social-email: kumar.sawant@stuffbits.in # add your Email address
 
